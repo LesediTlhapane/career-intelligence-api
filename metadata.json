@@ -1,0 +1,6 @@
+{
+  "name": "Career Intelligence API - Project Scaffold",
+  "description": "Clean, modular FastAPI project scaffold for the Career Intelligence API portfolio project, complete with tests and documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
